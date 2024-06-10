@@ -10,7 +10,7 @@
 
 - You can call us **Cly**
 
-- 🤝 We are looking for **Proposition of search engines**
+- 🤝 We are looking for **ideas of search engines**
 
 - 👨‍💻 All of our project: [clysulti.com](clysulti.com)
 
