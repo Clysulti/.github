@@ -1,6 +1,6 @@
 ## Hi there, we are Clysulti, a new org 👋
 
-<!--
+
 
 **Little presentation:**
 
@@ -8,4 +8,4 @@
 🌈 Contribution guidelines - We accept only search engine proposition for now
 👩‍💻 Useful resources - https://clysulti.com New website soon, under construction
 🍿 Fun facts - Inspired from Searchjunct
--->
+
