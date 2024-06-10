@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, we are Clysulti</h1>
+<img src="clysultilogo.png" alt="css3" width="40" height="40"/>
 <h3 align="center">We are Clysulti, a new way to discover new search engines without getting tracked by using proxies.</h3>
 
 - currently working on **The Main site of Clysulti**
