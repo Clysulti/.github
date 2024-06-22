@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we are Clysulti</h1>
-
+<h2>Clysulti is a part of the Resulti Brand</h2>
 
 <h3 align="center">We are Clysulti, a new way to discover new search engines without getting tracked by using proxies.</h3>
 
